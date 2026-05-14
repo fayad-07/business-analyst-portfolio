@@ -1,0 +1,7 @@
+approval_level,min_amount,max_amount,required_approver,finance_review_required,executive_review_required,sla_business_days,notes
+Low-value standard request,CAD 0,CAD 999.99,Department manager,No,No,2,Standard Maintenance pilot request under CAD 1000
+Medium-value request,CAD 1000,CAD 9999.99,Department manager,Yes,No,3,Finance review required before procurement review
+High-value request,CAD 10000,No maximum,Department manager plus executive sponsor,Yes,Yes,5,Executive review required before procurement review
+Emergency safety request,CAD 0,No maximum,Department manager,Post-review conditional,Conditional,1,Fast-track timing allowed with emergency justification and post-approval audit notes
+Capital expenditure / special review request,CAD 0,No maximum,Department manager plus executive sponsor,Yes,Yes,5,Finance and executive review required regardless of amount
+Invalid or missing budget code exception,CAD 0,No maximum,Department manager if otherwise approvable,Yes,Conditional,3,Routes to finance hold or finance review before procurement review

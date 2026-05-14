@@ -1,0 +1,9 @@
+defect_id,test_case_id,summary,severity,priority,reported_by,date_reported,status,assigned_to,steps_to_reproduce,expected_result,actual_result,resolution_notes,date_closed
+"DEF-001","UAT-004","Missing budget code does not block normal request submission","High","High","Finance Reviewer","2026-05-13","Open","ERP Implementation Consultant","1. Log in as Maintenance requester; 2. Create standard request without budget code; 3. Attempt normal submission; 4. Review routing status","Normal submission is blocked and a clear missing budget code correction message is displayed","Request submitted to manager queue with blank budget code and no blocking message","",""
+"DEF-002","UAT-002","Medium-value request skips finance review after manager approval","High","High","UAT Tester","2026-05-13","In Review","Business Analyst","1. Submit request between CAD 1,000 and CAD 9,999; 2. Approve as department manager; 3. Review next workflow queue","Request routes to finance review before procurement review","Request moved directly to procurement review after manager approval","",""
+"DEF-003","UAT-010","Dashboard does not reflect latest finance hold after refresh","Medium","Medium","Project Manager","2026-05-13","Open","IT Systems Analyst","1. Open approval and exception dashboard; 2. Filter to Maintenance pilot; 3. Compare finance hold count to current synthetic request extract; 4. Review displayed refresh timestamp","Dashboard includes latest finance hold status and shows clear refresh timing","Dashboard extract did not include latest finance hold status after displayed refresh timestamp","",""
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
