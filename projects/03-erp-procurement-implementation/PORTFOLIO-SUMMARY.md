@@ -56,18 +56,7 @@ It is relevant to **Process Analyst** roles because it compares email/spreadshee
 
 It is relevant to **Operations Analyst** roles because it focuses on practical operational visibility: request backlog, approval aging, budget-code issues, vendor delays, receiving status, and category spend.
 
-## Resume Bullets
-
-- Created a synthetic ERP-style procurement implementation case for a fictional marine services company, documenting request intake, approval routing, budget validation, PO handoff, receiving visibility, and reporting needs.
-- Developed BA and implementation-support artifacts including process maps, requirements, business rules, approval matrix, traceability matrix, user stories, UAT cases, defect log, rollout note, cutover checklist, and risk register.
-- Designed a synthetic procurement dataset, SQL query pack, and Power BI-style dashboard specification to analyze approval bottlenecks, exceptions, status aging, vendor delays, receiving status, and spend categories.
-
-## LinkedIn Featured Description
-
-**ERP Procurement Request-to-PO Implementation Case**  
-Synthetic Business Analyst portfolio project for a fictional marine services company. This case demonstrates practical support for a platform-neutral ERP-style procurement workflow, including discovery, process mapping, requirements, business rules, UAT, SQL/reporting analysis, rollout planning, training support, and risk tracking. All company details and data are fictional and used only for portfolio demonstration.
-
-## Interview Walkthrough Path
+## Suggested Review Path
 
 1. Start with the executive summary to explain the business problem and why email/spreadsheet procurement creates operational gaps.
 2. Open the current-state and future-state process maps to show how the workflow changes from informal intake to controlled request-to-PO handling.

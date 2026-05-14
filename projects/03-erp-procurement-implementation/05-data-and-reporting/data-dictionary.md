@@ -92,5 +92,5 @@
 - This is not production ERP data.
 - This does not represent a real company, real vendor, real employee, real client, patient, resident, or financial record.
 - HarbourPoint Marine Services and all vendors in the dataset are fictional.
-- The dataset is designed to support a Business Analyst portfolio case, interview discussion, SQL examples, dashboard mockups, and UAT examples.
+- The dataset is designed to support a Business Analyst portfolio case, SQL examples, dashboard mockups, and UAT examples.
 - The dataset is intentionally simplified for review and demonstration; it does not include full accounting, inventory, invoice matching, tax, vendor onboarding, or ERP configuration detail.

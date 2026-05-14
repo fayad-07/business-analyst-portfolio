@@ -23,9 +23,9 @@ Synthetic Business Analyst portfolio case study for an ERP-style procurement req
 
 [View the ERP Procurement Case Study](projects/03-erp-procurement-implementation/README.md)
 
-## Who This Portfolio Is For
+## Target Roles
 
-This portfolio is designed for recruiters, hiring managers, and interviewers reviewing junior roles such as:
+This portfolio is aligned with junior and early-career roles such as:
 
 - Business Analyst
 - Implementation Analyst
@@ -62,7 +62,7 @@ This portfolio is designed for recruiters, hiring managers, and interviewers rev
 |---|---|---|
 | ERP Procurement Request to Purchase Order Implementation Case | ERP-style procurement workflow, requirements, UAT, SQL/reporting, rollout support | [Open project](projects/03-erp-procurement-implementation/README.md) |
 
-## Suggested Recruiter Review Path
+## Suggested Review Path
 
 1. Start with [PORTFOLIO-SUMMARY.md](projects/03-erp-procurement-implementation/PORTFOLIO-SUMMARY.md).
 2. Then read the [project README.md](projects/03-erp-procurement-implementation/README.md).
@@ -75,7 +75,3 @@ This portfolio is designed for recruiters, hiring managers, and interviewers rev
 ## Synthetic-Data Disclaimer
 
 All portfolio data is synthetic. The companies, vendors, requests, and operational examples are fictional and created for demonstration purposes only. No real ERP, SAP, Oracle, Dynamics, NetSuite, Power BI workspace, production system, or client implementation is claimed.
-
-## Contact / LinkedIn
-
-LinkedIn: Add LinkedIn profile URL here.

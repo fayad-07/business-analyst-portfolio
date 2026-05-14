@@ -2,7 +2,7 @@
 
 ## How to Read This Artifact
 
-This backlog translates the HarbourPoint Marine Services procurement workflow requirements into role-based user stories and testable acceptance criteria for a synthetic ERP-style procurement implementation case. It is written for business review, recruiter review, and UAT traceability. It does not claim that a real ERP platform has been configured.
+This backlog translates the HarbourPoint Marine Services procurement workflow requirements into role-based user stories and testable acceptance criteria for a synthetic ERP-style procurement implementation case. It is written for business review and UAT traceability. It does not claim that a real ERP platform has been configured.
 
 The story IDs, requirement IDs, and business rule IDs preserve traceability from discovery and requirements through the completed UAT cases.
 

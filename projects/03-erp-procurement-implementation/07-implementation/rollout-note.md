@@ -32,7 +32,7 @@ This scope is reasonable because Maintenance has high operational relevance, fre
 - Expansion to Vessel Operations, Logistics, Administration, IT, and Finance request types during this pilot issue.
 - Accounts payable, invoice matching, payment approval, tax, banking, inventory management, warehouse management, and vendor onboarding workflow.
 - Advanced notification preferences, SMS alerts, or complex escalation automation.
-- Portfolio packaging, LinkedIn/resume positioning, and final artifact QA beyond pilot rollout readiness.
+- Public portfolio packaging beyond pilot rollout readiness.
 
 ### Assumptions
 

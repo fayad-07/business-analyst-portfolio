@@ -4,17 +4,6 @@
 
 This scope and assumptions artifact is part of a synthetic Business Analyst portfolio case for HarbourPoint Marine Services, a fictional marine services and logistics company in St. John's, Newfoundland and Labrador. The case demonstrates discovery and scope framing for a platform-neutral ERP-style procurement workflow. It does not represent real client delivery, real company data, real vendor data, production financial data, or configuration in a named ERP product.
 
-## Source Artifacts
-
-This document is based on the completed Issue 001 project shell and executive summary:
-
-- `.scratch/erp-procurement-implementation-prd.md`
-- `.scratch/issue-002-discovery-scope-assumptions.md`
-- `README.md`
-- `00-executive-summary/executive-summary.md`
-
-The PRD and Issue 002 brief were used as the primary source for scope decisions. The README and executive summary were used as the completed Issue 001 artifacts and business-facing framing.
-
 ## Business Problem
 
 HarbourPoint Marine Services currently relies on email and spreadsheets for procurement requests. Request details arrive in inconsistent formats, approvals are not always handled the same way, budget codes may be missing or incorrect, procurement staff spend time chasing information, receiving updates are not consistently visible, and leadership reporting is manual.
@@ -110,7 +99,7 @@ The Issue 002 discovery artifacts cover:
 
 - The case must remain realistic for a junior BA or implementation analyst portfolio and should not imply real client delivery or production ERP configuration.
 - The workflow must remain product-neutral and should avoid SAP, Oracle, Microsoft Dynamics, NetSuite, or other named-platform implementation claims.
-- The initial pilot must stay narrow enough to be explainable in interviews and reviewable by recruiters within a few minutes.
+- The initial pilot must stay narrow enough to review clearly while still demonstrating a realistic procurement workflow.
 - Discovery artifacts should support the completed process, requirements, data, UAT, and rollout artifacts without expanding beyond the portfolio scenario.
 - Synthetic data must avoid real vendor, employee, client, and financial records.
 - Approval thresholds, role permissions, and reporting definitions are documented in later artifacts, with delegation, exact retention period, and final reporting refresh cadence still treated as open policy details.
